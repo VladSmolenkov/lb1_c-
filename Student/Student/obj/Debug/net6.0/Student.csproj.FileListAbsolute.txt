@@ -1,0 +1,15 @@
+C:\Users\UNICEF\source\repos\Student\Student\bin\Debug\net6.0\Student.exe
+C:\Users\UNICEF\source\repos\Student\Student\bin\Debug\net6.0\Student.deps.json
+C:\Users\UNICEF\source\repos\Student\Student\bin\Debug\net6.0\Student.runtimeconfig.json
+C:\Users\UNICEF\source\repos\Student\Student\bin\Debug\net6.0\Student.dll
+C:\Users\UNICEF\source\repos\Student\Student\bin\Debug\net6.0\Student.pdb
+C:\Users\UNICEF\source\repos\Student\Student\obj\Debug\net6.0\Student.csproj.AssemblyReference.cache
+C:\Users\UNICEF\source\repos\Student\Student\obj\Debug\net6.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNICEF\source\repos\Student\Student\obj\Debug\net6.0\Student.AssemblyInfoInputs.cache
+C:\Users\UNICEF\source\repos\Student\Student\obj\Debug\net6.0\Student.AssemblyInfo.cs
+C:\Users\UNICEF\source\repos\Student\Student\obj\Debug\net6.0\Student.csproj.CoreCompileInputs.cache
+C:\Users\UNICEF\source\repos\Student\Student\obj\Debug\net6.0\Student.dll
+C:\Users\UNICEF\source\repos\Student\Student\obj\Debug\net6.0\refint\Student.dll
+C:\Users\UNICEF\source\repos\Student\Student\obj\Debug\net6.0\Student.pdb
+C:\Users\UNICEF\source\repos\Student\Student\obj\Debug\net6.0\Student.genruntimeconfig.cache
+C:\Users\UNICEF\source\repos\Student\Student\obj\Debug\net6.0\ref\Student.dll
